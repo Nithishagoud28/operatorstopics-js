@@ -1,0 +1,2 @@
+# operatorstopics-js
+all operators
